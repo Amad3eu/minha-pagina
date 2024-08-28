@@ -85,17 +85,17 @@ button:hover {
 }
 
 #hab1:hover {
-  background-image: url("dominio.png");
+  background-image: url("/assets/media/dominio.png");
 }
 
 #hab2:hover {
-  background-image: url("hollow.jpg");
+  background-image: url("/assets/media/hollow.jpg");
 }
 
 #hab3:hover {
-  background-image: url("blue.png");
+  background-image: url("/assets/media/blue.png");
 }
 
 #hab4:hover {
-  background-image: url("vermelho.png");
+  background-image: url("/assets/media/vermelho.png");
 }
